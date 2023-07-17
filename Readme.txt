@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Name: Muhammad Sabri
+NIS : 1903060041
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Faklustas Teknik Jurusan Sistem Informasi 2023
